@@ -13,7 +13,7 @@ or what”? The responses were
 7. Keeping house
 8. Other
 The responses were recorded using the codes 1, 2, 3, 4, 5, 6, 7, and 8, respectively.
-
+Sample implementation: WorkStatus_NominalData_barChart_PieChart.ipynb
 
 
 
