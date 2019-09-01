@@ -24,6 +24,18 @@ encoding Newspaper:          Globe and Mail (1), Post (2), Star (3), Sun (4)
 
 Sampple Implementation: CrossClassificationTable.ipynb
 
+
+
+
+Notes:
+Interval data:
+Real Number, All Calc, may be Ordinal or nominal
+Nominal Data:
+category, frequency / % of occurance, May not ordinal or interval
+
+Ordinal Data:
+ranked order, ordering process, May be nominal but not interval
+
 Reference: 
 Cengage.Learning.Statistics.for.Management.and.Economics.10th.Edition
 Online python resources
